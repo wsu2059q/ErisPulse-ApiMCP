@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# 工具缓存
+.pytest_cache/
+.ruff_cache/
+
+# ErisPulse 运行时数据
+.erispulse/
+config/
